@@ -1,4 +1,5 @@
-# Ex-01
+# Ex-01                        
+# DATE:24.08.2024
 #  Mean and variance of a discrete  distribution
 
 
